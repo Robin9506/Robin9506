@@ -1,4 +1,59 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/49393620?v=4" width="100"/>
+  <h3>Robin</h3>
+  <img src="https://komarev.com/ghpvc/?username=Robin9506&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
+### 👨‍💻 About Me
+
+- Who/What: I am a student following <ins>Computer Science</ins> @ Hogeschool Leiden
+- Specialization: <ins>Software Engineering</ins>
+- Free Time: Programming; Making Games; Making Art 
+
+---
+
+### 🔨 Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
+</div>
+
+---
+
+### 🛠️ Tools
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-line.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  
+</div>
+
+---
+
+### 🔥 Contributions
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Robin9506&theme=radical&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 📚 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin9506)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+
 
 <!--
 **Robin9506/Robin9506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
