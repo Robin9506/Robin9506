@@ -15,7 +15,6 @@ I like to make games :space_invader: and art 🎨 in the Unity game engine. Ofco
 
 Also I'm currently expanding my knowledge by practising C#, HTML and CSS.
 
-
 ---
 
 ### 🔨 Languages
@@ -46,10 +45,22 @@ Also I'm currently expanding my knowledge by practising C#, HTML and CSS.
 
 ---
 
-### 🔥 Contributions
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Robin9506&theme=radical&hide_border=true&border_radius=90&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 🔥 Stats
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robin9506&show_icons=true&locale=en&layout=compact" alt="robin9506" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=robin9506&show_icons=true&locale=en" alt="robin9506" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robin9506&" alt="robin9506" /></p>
 
 ---
+
+### 🏆 Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robin9506" alt="robin9506" /></a> </p>
 
 <!--
 **Robin9506/Robin9506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
