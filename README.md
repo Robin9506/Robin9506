@@ -1,22 +1,3 @@
-<div id="header" >
-<!--   <img src="https://avatars.githubusercontent.com/u/49393620?v=4" width="100"/> -->
-  <h1>Hi there:wave:, I'm Robin</h1>
- 
-</div>
-
-### 👨‍💻 I'm a Student and Game developer
-
-<img src="https://komarev.com/ghpvc/?username=Robin9506&style=flat-square&color=blue" alt=""/>
-
-Currently, I am a student following Computer Science @ <b>Hogeschool Leiden</b> :school: 
-
-I have a few hobbies I practice when I have some free time:<br>
-I like to make games :space_invader: and art 🎨 in the Unity game engine. Ofcourse this involves a little bit of programming.
-
-Also I'm currently expanding my knowledge by practising C#, HTML and CSS.
-
----
-
 ### 🔨 Languages
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
